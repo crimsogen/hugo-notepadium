@@ -124,7 +124,7 @@ code,
 tt,
 kbd,
 samp {
-  font-family: Menlo, Consolas, Monaco, 'Courier New', 'Ubuntu Mono', monospace, serif;
+  font-family: 'Cascadia Code', 'Cascadia Mono', Menlo, Consolas, Monaco, 'Courier New', 'Ubuntu Mono', monospace, serif;
   font-weight: 400;
   font-size: 85%;
 }
